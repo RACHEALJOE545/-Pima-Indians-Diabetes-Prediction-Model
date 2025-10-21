@@ -40,7 +40,12 @@ The problem addresses a key healthcare challenge — early detection of diabetes
 - Data Visualization to reveal correlations and variable importance
 
 - Binary Classification Techniques for medical diagnostics
-  
+
+
+## Data Visualization:
+
+  <img width="813" height="658" alt="Screenshot 2025-10-18 131302" src="https://github.com/user-attachments/assets/0c90559f-ab13-4b56-99b3-c3215cc04152" />
+
 
 ## 📈 Analysis Interpretation:
 
@@ -53,7 +58,11 @@ _ Glucose level was the strongest predictor of diabetes presence — higher gluc
 - Machine learning models achieved moderate to strong predictive performance, with Logistic Regression and Random Forest       performing best overall.
 
 - Visualizations highlighted clear distinctions in glucose and BMI distributions between diabetic and non-diabetic             individuals.
-  
+
+
+## You can interact with the notebook here: 
+
+https://colab.research.google.com/drive/1HmdO64azsNWz_-S-Zj1l1qF4M-BykmvQ?usp=sharing
 
 ## 🧩 Conclusions:
 
